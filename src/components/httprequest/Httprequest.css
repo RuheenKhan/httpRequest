@@ -1,0 +1,9 @@
+.card {
+    border-top: 2px solid blue;
+    width: 800px;
+    height: 140px;
+}
+
+.container {
+    height: 400px;
+}
